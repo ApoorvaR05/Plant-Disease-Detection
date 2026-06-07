@@ -1,7 +1,7 @@
 # AI-Based Plant Disease Detection System
 
 <p align="center">
-  <img src="./screenshots/home-page.png" width="900">
+  <img src="./Plant_screenshots/Plant_home.png" width="900">
 </p>
 
 <p align="center">
