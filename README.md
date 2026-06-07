@@ -1,10 +1,5 @@
 # AI-Based Plant Disease Detection System
 
-<p align="center">
-  <img src="./Plant_screenshots/Plant_home.png" width="900">
-</p>
-
-<p align="center">
 YOLO • Flask • React • Grad-Cam
 </p>
 
@@ -60,11 +55,6 @@ Plant-Disease-Detection/
 ├── frontend/
 ├── training/
 ├── screenshots/
-│   ├── home-page.png
-│   ├── upload-page.png
-│   ├── result-page.png
-│   └── heatmap-page.png
-│
 ├── README.md
 └── .gitignore
 ```
@@ -76,25 +66,25 @@ Plant-Disease-Detection/
 ### Home Page
 
 <p align="center">
-  <img src="./screenshots/home-page.png" width="800">
+  <img src="./Plant_screenshots/Plant_home.png" width="800"/>
 </p>
 
 ### Upload Page
 
 <p align="center">
-  <img src="./screenshots/upload-page.png" width="800">
+   <img src="./Plant_screenshots/plant_pg_2.png" width="800"/>
 </p>
 
 ### Disease Prediction Result
 
 <p align="center">
-  <img src="./screenshots/result-page.png" width="800">
+  <img src="./Plant_screenshots/plant_pg_3.png" width="800"/>
 </p>
 
 ### Grad-CAM Heatmap Visualization
 
 <p align="center">
-  <img src="./screenshots/heatmap-page.png" width="800">
+   <img src="././Plant_screenshots/plant_pg_4.png" width="800"/>
 </p>
 
 ---
@@ -164,12 +154,10 @@ The model was trained using annotated plant leaf disease datasets containing mul
 ## Team Members
 
 - Apoorva R
-- Team Member 2
-- Team Member 3
-- Team Member 4
+- Adheeth K V
+- Devanarayanan H
+- Akshay Kumar T P
 
 ---
 
-## License
-
-This project was developed for academic and educational purposes.
+This project was developed for academic purposes.
